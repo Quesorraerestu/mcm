@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["propaganda", "reagan", [181, 192, 113]]
+	],
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"spongebobcage",
+		"reagan"
+	],
+	"weekBackground": "propaganda",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

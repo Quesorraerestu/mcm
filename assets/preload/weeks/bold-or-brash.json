@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["bold-or-brash", "starved", [0, 0, 255]]
+	],
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"mrKrabs",
+		"starvedSquidward"
+	],
+	"weekBackground": "chamber",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
